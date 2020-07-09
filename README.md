@@ -10,3 +10,7 @@ Yes, of course! Couldn't be a `README` without a list. Here are all the things t
 - 🚧 Building a [PM community](https://pmtrack.co).
 - 📈 Writing about [practical data science](https://dataframe.ca).
 - 🎙 Running [a podcast](https://theworkitem.com) with [Courtny Cotten](https://twitter.com/courtnycotten).
+
+## I have a question...
+
+Ping me [on Twitter](https://twitter.com/denniscode)! No, really - I only use email for folks I've met, or those I have business to discuss with.
