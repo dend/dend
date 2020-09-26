@@ -1,5 +1,6 @@
 # 👋 Hi, I am Den!
 
+![SkiFree GIF](https://cdn.den.dev/assets/misc/skifree-hd.gif)
 That's right, I have a `README`. I am an engineer by training (_and by all the activities that I do in my free time_), and a product manager by day. I love working with data, tinkering with hardware and code, and writing. Every day is usually some mix of the above.
 
 ## Do you have an itemized list of activities?
