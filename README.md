@@ -1,16 +1,18 @@
 # 👋 Hi, I am Den!
 
-![SkiFree GIF](https://cdn.den.dev/assets/misc/skifree-hd.gif)
-That's right, I have a `README`. I am an engineer by training (_and by all the activities that I do in my free time_), and a product manager by day. I love working with data, tinkering with hardware and code, and writing. Every day is usually some mix of the above.
+I am an engineer exploring ways to solve complex problems with the help of computers.
 
-## Do you have an itemized list of activities?
+Here are some of the things that I put my time into:
 
-Yes, of course! Couldn't be a `README` without a list. Here are all the things that I put my time into:
-
-- 📝 [Blogging](https://den.dev).
+- 📝 [Writing](https://den.dev).
 - 🎙 Running [a podcast](https://theworkitem.com) with [Courtny Cotten](https://twitter.com/courtnycotten).
 - 💻 [Tinkering with code](https://github.com/dend).
 
-## I have a question...
+Outside of work, I focus on:
 
-Ping me [on Twitter](https://twitter.com/denniscode)! No, really - I only use email for folks I've met, or those I have business to discuss with.
+- 🤖 **Machine learning**. I am exploring ways to build tools that give humanity superpowers. My goal is to find means to automate the boring stuff, so that we all have more time for creative endeavors. Sounds ambitious.
+- 🧬 **Machine learning in virology and epidemiology**. There has never been a more critical time for putting computational advances to use in a field that can protect humanity as a whole from pathogenic threats.
+- 📈 **Statistics and data visualization**. I find ways to make boring numbers more interesting by extracting meaningful insights.
+- 🔥 **Computer graphics**. Putting my GPU to use by throwing a lot of 3D rendering workloads on it.
+
+Reach out on [on Twitter](https://twitter.com/denniscode) if you have any thoughts or comments.
