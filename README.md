@@ -1,6 +1,6 @@
 # 👋 Hi, I am Den!
 
-Hi! I am an engineer who is currently working on helping scale the developer relations organization as a **Principal Cloud Advocate** at **Microsoft**. I am based in **Vancouver, British Columbia**. You can learn more about what I do [on my own blog](https://den.dev/about/).
+Hi! I am an engineer, currently working on helping scale Developer Relations at Microsoft. I am based in **Vancouver, British Columbia**. You can learn more about what I do [on my own blog](https://den.dev/about/).
 
 Outside of my full-time job, I tend to work on many projects, as many as time permits, but my focus is _mostly_ around the following areas:
 
