@@ -19,7 +19,7 @@ Outside of my full-time job, I tend to work on quite a few projects, as many as 
 Outside of projects and work, my aim is to focus on some "big rocks" - important areas that need help:
 
 - Eradication of poverty around the globe.
-- Improving access to education, mentorship, and opportunities globally.
+- Improving access to education, mentorship, and job opportunities globally.
 - Leveraging modern technologies to solve modern epidemiology issues.
 
 ## Comments
