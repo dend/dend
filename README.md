@@ -1,8 +1,8 @@
 # 👋 Hi, I am Den!
 
-Hi! I am an engineer, currently working on helping scale Developer Relations at Microsoft. I am based in **Vancouver, British Columbia**. You can learn more about what I do [on my own blog](https://den.dev/about/).
+Hi! I am an engineer, currently working on helping scale Developer Relations at Microsoft. I am based in **Vancouver, British Columbia**. You can learn more about what I do [on my website](https://den.dev/about/).
 
-Outside of my full-time job, I tend to work on many projects, as many as time permits, but my focus is _mostly_ around the following areas:
+Outside of my full-time job, I tend to work on quite a few projects, as many as time permits, but my focus is _mostly_ around the following areas:
 
 |   | Area | Why is it interesting? |
 |:--|:-----|:-----------------------|
@@ -12,4 +12,4 @@ Outside of my full-time job, I tend to work on many projects, as many as time pe
 | 👨‍🔧 | **Podcast production** | I [started a podcast](https://theworkitem.com/). I am learning quite a bit about the editing, publishing, and production process. |
 | 📸 | **Photography and video editing** | Not exactly the most unique of interests, but I try to get better at documenting the life around me in photo and video form (and then make it look good for others). |
 
-Reach out on [on Twitter](https://twitter.com/denniscode) if you have any thoughts or comments!
+Reach out [on Twitter](https://twitter.com/denniscode) if you have any thoughts or comments!
