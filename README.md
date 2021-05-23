@@ -1,6 +1,8 @@
 # 👋 Hi, I am Den!
 
-Hi! I am an engineer, currently working on helping scale Developer Relations at Microsoft. You can learn more about what I do [on my website](https://den.dev/about/).
+Hi! I am an engineer currently working on helping scale Developer Relations at Microsoft.
+
+You can learn more about what I do [on my website](https://den.dev/about/).
 
 ## Project Areas
 
