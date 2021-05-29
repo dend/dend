@@ -22,8 +22,8 @@ Outside of projects and work, my aim is to focus on some "big rocks" - important
 
 - Eradication of poverty around the globe.
 - Improving access to education, mentorship, and job opportunities globally.
-- Leveraging modern technologies to solve issues related to epidemiology and virology.
-
+- Leveraging modern technologies to solve issues related to human health.
+- 
 ## Comments
 
 Reach out [on Twitter](https://twitter.com/denniscode) if you have any thoughts or comments!
