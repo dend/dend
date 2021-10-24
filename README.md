@@ -1,6 +1,6 @@
 # 👋 Hi, I am Den!
 
-Hi! I am an engineer currently taking a week off before embarking on my next adventure.
+Hi! I am an engineer working as a **Group Product Manager** at **[Netlify](https://netlify.com)**.
 
 You can learn more about what I do [on my website](https://den.dev/about/).
 
