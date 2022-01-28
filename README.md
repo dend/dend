@@ -1,6 +1,6 @@
 # 👋 Hi, I am Den!
 
-Hi! I am an engineer working as a **Group Product Manager** at **[Netlify](https://netlify.com)**.
+Hi! I am an engineer working as **Head of Ecosystem** at **[Netlify](https://netlify.com)**, making it easier for developers to build interactive and extensible web applications.
 
 You can learn more about what I do [on my website](https://den.dev/about/).
 
