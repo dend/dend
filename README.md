@@ -22,7 +22,7 @@ Outside of projects and work, my aim is to focus on some "big rocks" - important
 
 - Eradication of poverty around the globe.
 - Improving access to education, mentorship, and job opportunities globally.
-- Leveraging modern technologies to solve issues related to human health.
+- Leveraging modern technology to help advance humanity.
 
 ## Comments
 
