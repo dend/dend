@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # 👋 Hi, I am Den!
 
 Hi! I am an engineer working as **Head of Ecosystem** at **[Netlify](https://netlify.com)**, making it easier for developers to build interactive and extensible web applications.
