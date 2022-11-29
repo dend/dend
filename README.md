@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I am an engineer leading the ecosystem product management team at [Netlify](https://netlify.com), making it easier for developers to build interactive and extensible web applications.
+I am an engineer working on helping developers build more secure applications as a **Principal Product Manager** at **Microsoft**. Specifically, I am focused on making the Microsoft Identity Platform SDKs and tools better and easier to use, extend, and maintain.
 
 In my free time I am uncovering undocumented APIs, such as those for [Halo](https://github.com/dend/grunt), [Nest](https://github.com/dend/foggycam), [Spotify](https://den.dev/blog/spotify-wrapped/), [Xbox](https://den.dev/blog/xbox-live-download-captures/), [Stream Deck](https://github.com/dend/decksurf), and many more that I haven't gotten to yet.
 
