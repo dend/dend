@@ -2,7 +2,17 @@
 
 <a href="https://den.dev"><img src="https://cdn.den.dev/images/spartan-armor.png" width="300px"/></a>
 
-I am an engineer and product manager. I help [**build software**](https://learn.microsoft.com/azure/active-directory/develop/msal-overview) that makes other software more secure, [**record a podcast**](https://theworkitem.com) where I interview notable folks about their career lessons, [**build a utility**](https://awake.den.dev/) to keep your Windows machine awake, [**maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow, and [**tinker with USB data**](https://deck.surf/) from a popular button box. In the past I've reverse engineered and documented the Halo Infinite REST API.
+I am an engineer + product manager combo.
+
+Things I do:
+
+- 🔒 [**Build software**](https://learn.microsoft.com/azure/active-directory/develop/msal-overview) that makes other software more secure.
+- 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career lessons.
+- ☕️ [**Build a utility**](https://awake.den.dev/) to keep your Windows machine awake.
+- 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
+- 💻 [**Tinker with USB data**](https://deck.surf/) from a popular button box.
+
+In the past I've reverse engineered and documented the **[Halo Infinite REST API](https://den.dev/blog/halo-api/)**, **[Zune REST API](https://den.dev/blog/zune-api/)**, and the **[Xbox media API](https://den.dev/blog/xbox-live-download-captures/)**, among others.
 
 Occasionally I **[play Halo](https://den.dev/halo)**.
 
