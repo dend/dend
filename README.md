@@ -6,7 +6,7 @@ I am an engineer + product manager combo.
 
 Things I do:
 
-- 🔒 [**Build software**](https://learn.microsoft.com/azure/active-directory/develop/msal-overview) that makes other software more secure.
+- 🔒 [**Build software**](https://learn.microsoft.com/entra/msal) that makes other software more secure.
 - 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career lessons.
 - ☕️ [**Build a utility**](https://awake.den.dev/) to keep your Windows machine awake.
 - 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
