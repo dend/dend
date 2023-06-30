@@ -1,7 +1,5 @@
 # Hi, I'm Den 👋
 
-<a href="https://den.dev"><img src="https://cdn.den.dev/images/spartan-armor.png" width="300px"/></a>
-
 I am an engineer + product manager combo.
 
 Things I do:
