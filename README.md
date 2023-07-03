@@ -12,6 +12,6 @@ Things I do:
 
 In the past I've reverse engineered and documented the **[Halo Infinite REST API](https://den.dev/blog/halo-api/)**, **[Zune REST API](https://den.dev/blog/zune-api/)**, and the **[Xbox media API](https://den.dev/blog/xbox-live-download-captures/)**, among others.
 
-Occasionally I **[play Halo](https://den.dev/halo)**.
+On the rare occassions I have time to play video games, I **[play Halo](https://den.dev/halo)**.
 
 You can find me on [**GitHub**](https://github.com/dend), [**LinkedIn**](https://www.linkedin.com/in/dendeli/), [**YouTube**](https://www.youtube.com/@DenDev), [**Stack Overflow**](https://stackoverflow.com/users/303696/den), and [**Hacker News**](https://news.ycombinator.com/user?id=dend).
