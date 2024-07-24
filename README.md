@@ -1,11 +1,11 @@
 # Hi, I'm Den 👋
 
-I am an engineer + product manager combo.
+I am an engineer + product manager combo working on securing and finding vulnerabilities in applications and APIs.
 
 Things I do:
 
-- 🔒 [**Build software**](https://learn.microsoft.com/entra/msal) that makes other software more secure (you can see my work on my, well, work GitHub account - [`@localden`](https://github.com/localden)).
-- 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career lessons.
+- 🔒 [**Build libraries**](https://msal.dev) that help protect web, mobile, and desktop applications as well as APIs (see my work on my Microsoft-linked GitHub account - [`@localden`](https://github.com/localden)).
+- 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career journeys and hard lessons learned along the way.
 - ☕️ [**Build a utility**](https://awake.den.dev/) to keep your Windows machine awake.
 - 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
 - 💻 [**Tinker with USB data**](https://deck.surf/) from a popular button box.
