@@ -9,7 +9,6 @@ Things I do:
 - ☕️ [**Build a utility**](https://awake.den.dev/) to keep your Windows machine awake.
 - 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
 - 💻 [**Tinker with USB data**](https://deck.surf/) from a popular button box.
-- 🪐 [**Maintain a Halo Infinite companion suite**](https://openspartan.com) to help folks analyze their Halo Infinite data.
 
 In the past I've reverse engineered and documented the **[Halo Infinite REST API](https://den.dev/blog/halo-api/)**, **[Zune REST API](https://den.dev/blog/zune-api/)**, and the **[Xbox media API](https://den.dev/blog/xbox-live-download-captures/)**, among others.
 
