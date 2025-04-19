@@ -1,4 +1,4 @@
-# Hi, I'm Den 👋
+# Den Delimarsky ⚡
 
 I am an Principal Product Engineer who thrives on solving puzzles (technical or otherwise).
 
