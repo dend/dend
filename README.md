@@ -1,10 +1,10 @@
 # Hi, I'm Den 👋
 
-I am an Principal Product Engineer with a deep passion for solving tough problems and technical puzzles.
+I am an Principal Product Engineer who thrives on solving puzzles (technical or otherwise).
 
-A few things that I do, from which you might've heard my name before:
+A few things that I do:
 
-- ✨ [**Build and help grow dev tools**](https://github.com/features/copilot) that make engineers more productive (see my work on my Microsoft-linked GitHub account - [`@localden`](https://github.com/localden)).
+- ✨ [**Build and help grow dev tools**](https://github.com/features/copilot) that make engineers more productive (see my work GitHub account - [`@localden`](https://github.com/localden)).
 - 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career journeys and hard lessons learned along the way.
 - ☕️ [**Build a massively-adopted open source utility**](https://awake.den.dev/) to keep your Windows machine awake.
 - 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
