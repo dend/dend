@@ -13,7 +13,7 @@ I am an Principal Product Engineer who thrives on solving puzzles (technical or 
 
 A few things that I do:
 
-- ✨ [**Build and help grow dev tools**](https://github.com/features/copilot) that make engineers more productive (see my work GitHub account - [`@localden`](https://github.com/localden)).
+- ✨ [**Build and help secure dev tools**](https://developer.microsoft.com) that make engineers more productive (see my work GitHub account - [`@localden`](https://github.com/localden)).
 - 🎙️ [**Record a podcast**](https://theworkitem.com) where I interview notable folks about their career journeys and hard lessons learned along the way.
 - ☕️ [**Build a massively-adopted open source utility**](https://awake.den.dev/) to keep your Windows machine awake.
 - 📕 [**Maintain a list**](https://github.com/dend/awesome-product-management) of resources to help product managers grow.
